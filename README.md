@@ -10,9 +10,10 @@ deliverables: '1 sketch'
 
 - *Fork this repository.*
 - Sketch (paper or digital) a sitemap to handle this website.
-- Refer to the prioritized wireframes for help with the organization.
-- Text can be found inside the `content.txt` file.
+- Refer to the prioritized wireframes for help with the organization, in the `wireframes/` folder.
+- Text content for each page can be found inside the `content/` folder.
 - Think about what pages are needed & how they’re organized based on the hints provided by the content & wireframes.
+- (There’s also some images—just for reference.)
 - Submit your sitemap sketch online.
 
 ---
