@@ -1,5 +1,5 @@
 ---
-summary: ''
+summary: 'Given content & wireframes for a website, plan out the appropriate sitemap. '
 time: '30 minutes'
 deliverables: '1 sketch'
 ---
